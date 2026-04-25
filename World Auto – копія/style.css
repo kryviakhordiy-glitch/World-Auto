@@ -1,0 +1,178 @@
+body {
+    background-image: url(https://mercedes-benz.kiev.ua/storage/texteditor/6713784896e31.png);
+    background-repeat: no-repeat;
+    background-size:1521px 800px;
+    background-color: rgb(60, 59, 59);
+    margin: 0;
+    padding: 0;
+    height: 1400px;
+}
+
+.block {
+    width: 100%;
+    height: 70px;
+    background: rgb(46, 45, 45);
+    border-bottom: 5px solid rgb(153, 2, 2);
+    position: relative;
+    position: fixed;
+}
+
+#go {
+    font-family: sans-serif;
+    position: absolute;
+    right: 1270px;
+    top: -13px;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 40px;
+    position: fixed;
+
+}
+
+#nav {
+        text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    right:300px;
+    top: 25px;
+    font-size: 23px;
+    font-family: sans-serif;
+    transition: all 0.3s ease;
+    position: fixed;
+    
+}
+
+#nav:hover {
+    color: rgb(197, 1, 1);;
+}
+
+#nave {
+        text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    right: 220px;
+    top: 25px;
+    font-size: 23px;
+    font-family: sans-serif;
+    transition: all 0.3s ease;
+    position: fixed;
+}
+
+#nave:hover {
+    color: rgb(197, 1, 1);;
+}
+
+#nava {
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    right: 100px;
+    top: 25px;
+    font-size: 23px;
+    font-family: sans-serif;
+    transition: all 0.3s ease;
+    position: fixed;
+}
+
+#nava:hover {
+    color: rgb(197, 1, 1);;
+}
+
+#gove {
+    color: aliceblue;
+    font-family: sans-serif;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 830px;
+}
+
+#gov {
+    color: aliceblue;
+    font-family: sans-serif;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 872px;
+}
+
+#caar {
+        color: aliceblue;
+    font-family: sans-serif;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 912px;
+}
+
+.block2 {
+    width: 400px;
+    height: 400px;
+    background: rgb(46, 45, 45);
+    position: absolute;
+    top: 970px;
+    left: 100px;
+    border-radius: 15px;
+    transition: 0.3s ease;
+     box-shadow: 0s;
+}
+
+.block2:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 0 2px white;
+}
+
+.block3 {
+    width: 400px;
+    height: 400px;
+    background: rgb(46, 45, 45);
+    position: absolute;
+    top: 970px;
+    left: 550px;
+    border-radius: 15px;
+        transition: 0.3s ease;
+     box-shadow: 0s
+}
+
+.block3:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 0 0 2px white;
+}
+
+.block4 {
+    background-image: url();
+    width: 400px;
+    height: 400px;
+    background: rgb(46, 45, 45);
+    position: absolute;
+    top: 970px;
+    left: 1000px;
+    border-radius: 15px;
+        transition: 0.3s ease;
+     box-shadow: 0s
+
+}
+
+.block4:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 0 2px white;
+}
+
+img {
+    width: 400px;
+    height: 220px;
+    border-radius:15px 15px 0 0;
+}
+
+#car {
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+#cars {
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+
+}
